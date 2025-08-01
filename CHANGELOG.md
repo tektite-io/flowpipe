@@ -1,5 +1,15 @@
 # Flowpipe
 
+## v1.2.0 [2025-08-01]
+
+_What's new?_
+
+* Compiled with Go 1.24.
+
+_Dependencies_
+
+* Upgrade `golang.org/x/oauth2`, `form-data` and `vite` packages to remediate critical vulnerabilities.
+
 ## v1.1.1 [2025-04-03]
 
 _Dependencies_
